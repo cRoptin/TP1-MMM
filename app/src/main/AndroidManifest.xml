@@ -22,10 +22,6 @@
             android:name=".SecondActivity"
             android:label="@string/scn_app"
             android:theme="@style/AppTheme.NoActionBar"></activity>
-        <activity
-            android:name=".DisplayActivity"
-            android:label="@string/title_activity_display"
-            android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 
 </manifest>
